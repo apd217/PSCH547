@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "PSCH547"
+  site-url: "https://apd217.github.io/PSCH547/"
+  repo-url: "https://github.com/apd217/PSCH547"
+  repo-actions: [edit, issue]
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+  # Optional: specify output folder for GitHub Pages
+output-dir: docs
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
