@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs   # ⬅️ move this here!
 
 website:
   title: "PSCH547"
@@ -11,9 +12,6 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-
-  # Optional: specify output folder for GitHub Pages
-output-dir: docs
 
 format:
   html:
