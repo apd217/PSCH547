@@ -13,11 +13,10 @@ website:
         text: Home
       - href: about.qmd
         text: Data Science Lectures
-        menu:
-          - href: about.qmd
-            text: Overview
-          - href: Lasso1.qmd
-            text: Lasso
+      - href: about.qmd
+        text: Overview
+      - href: Lasso1.qmd
+        text: Lasso
 
 format:
   html:
