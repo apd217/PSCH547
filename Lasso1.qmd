@@ -1,0 +1,8 @@
+---
+title: "Lasso"
+author: "Alexander Demos"
+---
+
+I will post my lasso lecture here.
+
+Yeah code baby!

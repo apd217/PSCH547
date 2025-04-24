@@ -12,7 +12,12 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: Project 1
+        text: Data Science Lectures
+        menu:
+          - href: about.qmd
+            text: Overview
+          - href: Lasso1.qmd
+            text: Lasso
 
 format:
   html:
